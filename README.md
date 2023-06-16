@@ -1,1 +1,3 @@
 # Wed-design
+
+For this web design project, I have chosen to work with a non-profit organization. The goal of this project is to enhance their website using JavaScript and HTML. By incorporating these technologies, we aim to create a more engaging and interactive user experience. The upgraded website will feature dynamic elements such as image sliders, interactive forms for donations and a responsive design that ensures optimal viewing across different devices. The use of JavaScript and HTML will allow us to showcase the organization's mission and initiatives more effectively, thereby increasing awareness and fostering greater community involvement.
